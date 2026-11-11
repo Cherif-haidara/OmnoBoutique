@@ -1,0 +1,6 @@
+{
+  "name": "OmniBoutique Pro - Gestion Commerciale & Caisse Multi-Boutiques",
+  "description": "Système professionnel de gestion commerciale multi-boutiques avec caisse tactile intégrée, suivi centralisé des stocks, transferts inter-magasins et analyse en temps réel de la rentabilité et des marges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
